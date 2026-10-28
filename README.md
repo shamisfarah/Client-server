@@ -1,7 +1,6 @@
-# Hello, im Shamis Farah!
 # hey, i'm Shamis! ♡
 
-🎀 Computer Science graduate | Cybersecurity Master's student
+Computer Science graduate | Cybersecurity Master's student
 
 Hi! I'm Shamis, a Computer Science graduate with a 2:1, currently studying for my Master's in Cybersecurity at Cardiff University.
 
@@ -15,9 +14,8 @@ I'm interested in learning how technology works, how systems can be protected, a
 - 🦠 **Malware Analysis** – static and dynamic analysis, using tools in safe lab environments
 - 🛡️ **Cybersecurity** – security risks, vulnerabilities, threat analysis and defensive security
 - 🔎 **TryHackMe** – building practical cybersecurity skills through hands-on labs
-- 💻 **Git & GitHub** – documenting projects and tracking my progress
-
-### 🌷 A little about me
+  
+###  A little about me
 
 - 🎓 Computer Science graduate with a 2:1
 - 📚 Currently studying an MSc in Cybersecurity
@@ -33,6 +31,8 @@ This GitHub is where I'll share my coding projects, university work that I'm all
 I'm still on my learning journey, so this is a space to document my progress, build my skills and keep getting better.
 
 ### 💌 Let's connect!
+> gmail - Shamisfarah09@gmail.com
+> Linkedin - Shamisfarah09@gmail.com
 
 Thanks for stopping by my little corner of GitHub ♡
 
